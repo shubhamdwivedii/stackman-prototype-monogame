@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/MonoGame Projects/StackManPrototypeTwo/Game1/Game1/Content/tile80x80.png</File>
+    <File>D:/MonoGame Projects/StackManPrototypeTwo/Game1/Game1/Content/small_pixel.bmp</File>
+    <File>D:/MonoGame Projects/StackManPrototypeTwo/Game1/Game1/Content/grid80x80.png</File>
+    <File>D:/MonoGame Projects/StackManPrototypeTwo/Game1/Game1/Content/empty80x80.png</File>
+  </SourceFiles>
+</SourceFileCollection>
